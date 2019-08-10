@@ -7,4 +7,6 @@ public class User {
      * a用户修改了文件
      */
     private String age;
+
+    private String bUser;
 }
