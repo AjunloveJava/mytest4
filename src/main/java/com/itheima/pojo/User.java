@@ -8,5 +8,7 @@ public class User {
      */
     private String age;
 
+    private String aUser;
+
     private String bUser;
 }
